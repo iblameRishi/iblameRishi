@@ -94,3 +94,5 @@
 </div>
 
 ###
+
+[![An image of @iblamerishi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iblamerishi)](https://holopin.io/@iblamerishi)
